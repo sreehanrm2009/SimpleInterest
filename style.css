@@ -1,0 +1,45 @@
+.home {
+      text-align: center;
+      background-color: #FFC0CB;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.link1 {
+      color: #A52A2A;
+      font-size: 40px;
+}
+h1 {
+      font-size: 80px;
+      font-variant: small-caps;
+}
+.link2 {
+      color: #0000FF;
+      font-size: 30px;
+}
+.amount {
+      text-align: center;
+      background-color: #6495ED;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button {
+      background-color: #00FF00;
+}
+.principle{
+      text-align: center;
+      background-color: #DEB887;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.rate {
+      text-align: center;
+      background-color: #00BFFF;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.time {
+      text-align: center;
+      background-color: #E0FFFF;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.interest {
+      text-align: center;
+      background-color: #FF7F50;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
